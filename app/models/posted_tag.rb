@@ -1,0 +1,2 @@
+class PostedTag < ApplicationRecord
+end
